@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Volumes/Data/projects/cocos2d-x-2.2/projects/richman/Classes/ModDice'
+let g:netrw_dirhist_2='/Volumes/Data/projects/cocos2d-x-2.2/projects/richman/Classes/ModGameDesk'
+let g:netrw_dirhist_3='/Volumes/Data/projects/cocos2d-x-2.2/projects/richman/Classes/ModCardSystem'
+let g:netrw_dirhist_4='/Volumes/Data/projects/cocos2d-x-2.2/projects/richman/Classes'
+let g:netrw_dirhist_5='/Users/Higgx/.config'
+let g:netrw_dirhist_6='/Applications'
